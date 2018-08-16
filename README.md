@@ -42,11 +42,9 @@ Guidelines
 The Specification
 --------------
 
-The test is split into two assignments: _Assignment A_ is more functional, while _Assignment B_ focuses on the visual.
+### Browse Articles View ###
 
-### Assignment A. Browse Articles View ###
-
-  * In this part of the test, we want to see functional examples. 
+  * In this test, we want to see functional examples. 
 
   * Articles can be shown as _Cards_, both in a _grid format_ and in a _list format_ (see image below),
     with the user able to toggle between these formats.
@@ -69,25 +67,3 @@ The test is split into two assignments: _Assignment A_ is more functional, while
 
 ![Assignment A Design Specification](README/Assignment-A-Design-Specification.png)
 
-
-### Assignment B. Read Article View ###
-
-  * The behaviour extends on _Assignment A_, in that when a user clicks on a publication from the _Browse Articles View_,
-    they should be presented with a new view showing the article in full.
-
-  * In this part of the test, we want to see visual examples. You are free to choose your own design,
-    or take inspiration from work found on dribbble.com, for example.
-
-  * How you visualize or interact with this view is up to you.
-
-  * This assignment is flexible enough to provide you the opportunity to demonstrate some skills
-    perhaps not covered by _Assignment A_.
-
-  * That said, the view should show the following as a minimum:
-      - Title (not the short one)
-      - Authors
-      - Body (`html` field)
-      - DOI
-      - Keywords (`keywords.name` field)
-      - Publication Date
-      - Public Id
